@@ -1,4 +1,4 @@
-package com.avaj;
+package com.avaj.map;
 
 public class Coordinates {
 

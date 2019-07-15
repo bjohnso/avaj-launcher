@@ -1,4 +1,6 @@
-package com.avaj;
+package com.avaj.aircraft;
+
+import com.avaj.map.Coordinates;
 
 public class Aircraft {
 
