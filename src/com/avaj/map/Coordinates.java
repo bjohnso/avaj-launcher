@@ -10,6 +10,14 @@ public class Coordinates {
         mLongitude = longitude;
         mLatitude = latitude;
         mHeight = height;
+        if (mLongitude < 0)
+            mLongitude = 0;
+        if (mLatitude < 0)
+            mLatitude = 0;
+        if (mHeight < 0)
+           mHeight = 0;
+        else if (mHeight > 100)
+            mHeight = 100;
     }
 
     public int getLongitude() {
@@ -22,5 +30,30 @@ public class Coordinates {
 
     public int getHeight(){
         return mHeight;
+    }
+
+    public void mutateLongitude(int longitude){
+        mLongitude+=longitude;
+        if (mLongitude < 0)
+            mLongitude = 0;
+    }
+
+    public void mutateLatitude(int latitude){
+        mLatitude+=latitude;
+        if (mLatitude < 0)
+            mLatitude = 0;
+    }
+
+    public void mutateHeight(int height){
+        mHeight+=height;
+        if (mHeight < 0)
+            mHeight = 0;
+        else if (mHeight > 100)
+            mHeight = 100;
+    }
+
+    @Override
+    public String toString() {
+        return mLatitude + " lat/" + mLongitude + " long/" + mHeight + " height";
     }
 }
