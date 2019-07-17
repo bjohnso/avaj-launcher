@@ -8,16 +8,20 @@ import java.util.ArrayList;
 public class Tower {
     private ArrayList<Flyable> observers = new ArrayList<>();
 
-    public void register(Flyable aircraft){
+    public void register(Aircraft aircraft){
         if (observers.contains(aircraft))
             return;
         observers.add((Flyable)aircraft);
-        System.out.println("REGISTERED TO WEATHERTOWER");
+        System.out.println(aircraft.getType() + "#"
+                + aircraft.getName()
+                + "(" + aircraft.getId() + ") : REGISTERED TO WEATHERTOWER");
     }
 
-    public void unregister(Flyable aircraft){
+    public void unregister(Aircraft aircraft){
         observers.remove(aircraft);
-        System.out.println("UNREGISTERED TO WEATHERTOWER");
+        System.out.println(aircraft.getType() + "#"
+                + aircraft.getName()
+                + "(" + aircraft.getId() + ") : UNREGISTERED TO WEATHERTOWER");
     }
 
     protected void conditionsChanged(){
