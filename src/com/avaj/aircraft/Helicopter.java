@@ -21,7 +21,7 @@ public class Helicopter extends Aircraft implements Flyable {
         messages.put("RAIN", "It's rainy : Longitude +5");
         messages.put("FOG", "It's foggy : Longitude +1");
         messages.put("SNOW", "It's snowy : Height -12");
-        messages.put("LANDING", "I'm landing at coordinates");
+        messages.put("LANDING", "I'm landing at coordinates ");
 
         if (weather.equals("SUN")) {
             this.mCoordinates.mutateLongitude(10);

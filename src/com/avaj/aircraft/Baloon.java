@@ -21,6 +21,7 @@ public class Baloon extends Aircraft implements Flyable {
         messages.put("RAIN", "It's rainy : Height -5");
         messages.put("FOG", "It's foggy : Height -3");
         messages.put("SNOW", "It's snowy : Height -15");
+        messages.put("LANDING", "I'm landing at coordinates ");
 
         if (weather.equals("SUN")) {
             this.mCoordinates.mutateLongitude(2);

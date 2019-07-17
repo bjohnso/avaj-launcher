@@ -20,6 +20,7 @@ public class JetPlane extends Aircraft implements Flyable {
         messages.put("RAIN", "It's rainy : Latitude +5");
         messages.put("FOG", "It's foggy : Latitude +1");
         messages.put("SNOW", "It's snowy : Height -7");
+        messages.put("LANDING", "I'm landing at coordinates ");
 
         if (weather.equals("SUN")) {
             this.mCoordinates.mutateLatitude(10);
