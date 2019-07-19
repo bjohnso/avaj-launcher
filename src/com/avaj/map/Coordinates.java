@@ -21,15 +21,15 @@ public class Coordinates {
     }
 
     public int getLongitude() {
-        return mLongitude;
+        return this.mLongitude;
     }
 
     public int getLatitude() {
-        return mLatitude;
+        return this.mLatitude;
     }
 
     public int getHeight(){
-        return mHeight;
+        return this.mHeight;
     }
 
     public void mutateLongitude(int longitude){

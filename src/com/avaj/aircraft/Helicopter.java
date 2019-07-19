@@ -1,9 +1,9 @@
 package com.avaj.aircraft;
 
+import com.avaj.Main;
 import com.avaj.aircontrol.WeatherTower;
 import com.avaj.interfaces.Flyable;
 import com.avaj.map.Coordinates;
-import com.avaj.weather.WeatherProvider;
 
 import java.util.HashMap;
 
@@ -15,7 +15,7 @@ public class Helicopter extends Aircraft implements Flyable {
     }
 
     public void updateConditions(){
-        String weather = weatherTower.getWeather(this.mCoordinates);
+        String weather = weatherTower.getWeather(this.getCoordinates());
         HashMap <String, String> messages = new HashMap<>();
         messages.put("SUN", "It's sunny : Longitude +10 and Height +2");
         messages.put("RAIN", "It's rainy : Longitude +5");
@@ -37,12 +37,12 @@ public class Helicopter extends Aircraft implements Flyable {
             this.mCoordinates.mutateHeight(-12);
         }
 
-        System.out.println("Helicopter#" + this.mName + "(" + this.mId + "): "
-                + messages.get(weather));
+        Main.writer.println("Helicopter#" + this.mName + "(" + this.mId + "): "
+                + messages.get(weather) + " : new coordinates " + this.mCoordinates);
 
         if (this.mCoordinates.getHeight() == 0){
 
-            System.out.println("Helicopter#" + this.mName + "(" + this.mId + "): "
+            Main.writer.println("Helicopter#" + this.mName + "(" + this.mId + "): "
                     + messages.get("LANDING") + this.mCoordinates);
             this.weatherTower.unregister(this);
         }

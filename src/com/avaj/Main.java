@@ -79,8 +79,12 @@ public class Main {
                 lineCounter++;
             }
 
+        } catch (ArrayIndexOutOfBoundsException e){
+            System.out.println(e.getMessage());
+            return;
         } catch (Exception e) {
             System.out.println(e.getMessage());
+            return;
         }
 
         WeatherProvider weatherProvider = WeatherProvider.getProvider();

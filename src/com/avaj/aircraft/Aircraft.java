@@ -8,7 +8,7 @@ public class Aircraft {
     protected String mName;
     protected String mType;
     protected Coordinates mCoordinates;
-    private long mIdCounter = 0;
+    private static long mIdCounter = 0;
 
     public Aircraft(){
 
@@ -22,7 +22,7 @@ public class Aircraft {
     }
 
     private long nextId(){
-        return mIdCounter++;
+        return ++(Aircraft.mIdCounter);
     }
 
     public String getName(){

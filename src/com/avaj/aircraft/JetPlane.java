@@ -1,5 +1,6 @@
 package com.avaj.aircraft;
 
+import com.avaj.Main;
 import com.avaj.aircontrol.WeatherTower;
 import com.avaj.interfaces.Flyable;
 import com.avaj.map.Coordinates;
@@ -7,6 +8,7 @@ import com.avaj.map.Coordinates;
 import java.util.HashMap;
 
 public class JetPlane extends Aircraft implements Flyable {
+
     private WeatherTower weatherTower;
 
     JetPlane(String name, Coordinates coordinates){
@@ -14,7 +16,7 @@ public class JetPlane extends Aircraft implements Flyable {
     }
 
     public void updateConditions(){
-        String weather = weatherTower.getWeather(this.mCoordinates);
+        String weather = weatherTower.getWeather(this.getCoordinates());
         HashMap<String, String> messages = new HashMap<>();
         messages.put("SUN", "It's sunny : Latitude +10 and Height +2");
         messages.put("RAIN", "It's rainy : Latitude +5");
@@ -35,15 +37,18 @@ public class JetPlane extends Aircraft implements Flyable {
         else {
             this.mCoordinates.mutateHeight(-7);
         }
-        System.out.println("JetPlane#" + this.mName + "(" + this.mId + "): "
-                + messages.get(weather));
 
-        if (this.mCoordinates.getHeight() == 0){
+        Main.writer.println("JetPlane#" + this.mName + "(" + this.mId + "): "
+                + messages.get(weather) + " : new coordinates " + this.mCoordinates);
 
-            System.out.println("JetPlane#" + this.mName + "(" + this.mId + "): "
+        if (this.getCoordinates().getHeight() == 0){
+
+            Main.writer.println("JetPlane#" + this.mName + "(" + this.mId + "): "
                     + messages.get("LANDING") + this.mCoordinates);
             this.weatherTower.unregister(this);
         }
+
+
     }
 
     @Override

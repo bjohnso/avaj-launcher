@@ -1,5 +1,6 @@
 package com.avaj.aircontrol;
 
+import com.avaj.Main;
 import com.avaj.aircraft.Aircraft;
 import com.avaj.interfaces.Flyable;
 
@@ -12,16 +13,16 @@ public class Tower {
         if (observers.contains(aircraft))
             return;
         observers.add((Flyable)aircraft);
-        System.out.println(aircraft.getType() + "#"
+        Main.writer.println(aircraft.getType() + "#"
                 + aircraft.getName()
-                + "(" + aircraft.getId() + ") : REGISTERED TO WEATHERTOWER");
+                + "(" + aircraft.getId() + ") : REGISTERED TO WEATHERTOWER AT COORDINATES " + aircraft.getCoordinates());
     }
 
     public void unregister(Aircraft aircraft){
         observers.remove(aircraft);
-        System.out.println(aircraft.getType() + "#"
+        Main.writer.println(aircraft.getType() + "#"
                 + aircraft.getName()
-                + "(" + aircraft.getId() + ") : UNREGISTERED TO WEATHERTOWER");
+                + "(" + aircraft.getId() + ") : UNREGISTERED TO WEATHERTOWER AT COORDINATES " + aircraft.getCoordinates());
     }
 
     protected void conditionsChanged(){

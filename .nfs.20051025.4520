@@ -1,0 +1,324 @@
+Baloon#B1(1) : REGISTERED TO WEATHERTOWER AT COORDINATES 3 lat/2 long/20 height
+Baloon#B2(2) : REGISTERED TO WEATHERTOWER AT COORDINATES 8 lat/1 long/66 height
+JetPlane#J1(3) : REGISTERED TO WEATHERTOWER AT COORDINATES 44 lat/23 long/32 height
+Helicopter#H1(4) : REGISTERED TO WEATHERTOWER AT COORDINATES 33 lat/654 long/20 height
+Helicopter#H2(5) : REGISTERED TO WEATHERTOWER AT COORDINATES 33 lat/22 long/44 height
+Helicopter#H3(6) : REGISTERED TO WEATHERTOWER AT COORDINATES 68 lat/98 long/99 height
+Baloon#B3(7) : REGISTERED TO WEATHERTOWER AT COORDINATES 22 lat/102 long/34 height
+JetPlane#J2(8) : REGISTERED TO WEATHERTOWER AT COORDINATES 99 lat/11 long/100 height
+Helicopter#H4(9) : REGISTERED TO WEATHERTOWER AT COORDINATES 23 lat/223 long/54 height
+Baloon#B1(1): It's sunny : Longitude +2 and Height +4 : new coordinates 3 lat/4 long/24 height
+Baloon#B2(2): It's sunny : Longitude +2 and Height +4 : new coordinates 8 lat/3 long/70 height
+JetPlane#J1(3): It's snowy : Height -7 : new coordinates 44 lat/23 long/25 height
+Helicopter#H1(4): It's snowy : Height -12 : new coordinates 33 lat/654 long/8 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/27 long/44 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/103 long/99 height
+Baloon#B3(7): It's rainy : Height -5 : new coordinates 22 lat/102 long/29 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 109 lat/11 long/100 height
+Helicopter#H4(9): It's rainy : Longitude +5 : new coordinates 23 lat/228 long/54 height
+Baloon#B1(1): It's rainy : Height -5 : new coordinates 3 lat/4 long/19 height
+Baloon#B2(2): It's snowy : Height -15 : new coordinates 8 lat/3 long/55 height
+JetPlane#J1(3): It's rainy : Latitude +5 : new coordinates 49 lat/23 long/25 height
+Helicopter#H1(4): It's snowy : Height -12 : new coordinates 33 lat/654 long/0 height
+Helicopter#H1(4): I'm landing at coordinates 33 lat/654 long/0 height
+Helicopter#H1(4) : UNREGISTERED TO WEATHERTOWER AT COORDINATES 33 lat/654 long/0 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/103 long/87 height
+Baloon#B3(7): It's rainy : Height -5 : new coordinates 22 lat/102 long/24 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 110 lat/11 long/100 height
+Helicopter#H4(9): It's snowy : Height -12 : new coordinates 23 lat/228 long/42 height
+Baloon#B1(1): It's snowy : Height -15 : new coordinates 3 lat/4 long/4 height
+Baloon#B2(2): It's rainy : Height -5 : new coordinates 8 lat/3 long/50 height
+JetPlane#J1(3): It's rainy : Latitude +5 : new coordinates 54 lat/23 long/25 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/32 long/44 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/108 long/87 height
+Baloon#B3(7): It's foggy : Height -3 : new coordinates 22 lat/102 long/21 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 120 lat/11 long/100 height
+Helicopter#H4(9): It's rainy : Longitude +5 : new coordinates 23 lat/233 long/42 height
+Baloon#B1(1): It's snowy : Height -15 : new coordinates 3 lat/4 long/0 height
+Baloon#B1(1): I'm landing at coordinates 3 lat/4 long/0 height
+Baloon#B1(1) : UNREGISTERED TO WEATHERTOWER AT COORDINATES 3 lat/4 long/0 height
+JetPlane#J1(3): It's sunny : Latitude +10 and Height +2 : new coordinates 64 lat/23 long/27 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/37 long/44 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/113 long/87 height
+Baloon#B3(7): It's rainy : Height -5 : new coordinates 22 lat/102 long/16 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 125 lat/11 long/100 height
+Helicopter#H4(9): It's rainy : Longitude +5 : new coordinates 23 lat/238 long/42 height
+Baloon#B2(2): It's rainy : Height -5 : new coordinates 8 lat/3 long/45 height
+JetPlane#J1(3): It's snowy : Height -7 : new coordinates 64 lat/23 long/20 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/47 long/46 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/114 long/87 height
+Baloon#B3(7): It's foggy : Height -3 : new coordinates 22 lat/102 long/13 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 135 lat/11 long/100 height
+Helicopter#H4(9): It's sunny : Longitude +10 and Height +2 : new coordinates 23 lat/248 long/44 height
+Baloon#B2(2): It's snowy : Height -15 : new coordinates 8 lat/3 long/30 height
+JetPlane#J1(3): It's snowy : Height -7 : new coordinates 64 lat/23 long/13 height
+Helicopter#H2(5): It's foggy : Longitude +1 : new coordinates 33 lat/48 long/46 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/124 long/89 height
+Baloon#B3(7): It's foggy : Height -3 : new coordinates 22 lat/102 long/10 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 145 lat/11 long/100 height
+Helicopter#H4(9): It's rainy : Longitude +5 : new coordinates 23 lat/253 long/44 height
+Baloon#B2(2): It's snowy : Height -15 : new coordinates 8 lat/3 long/15 height
+JetPlane#J1(3): It's rainy : Latitude +5 : new coordinates 69 lat/23 long/13 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/53 long/46 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/129 long/89 height
+Baloon#B3(7): It's rainy : Height -5 : new coordinates 22 lat/102 long/5 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 155 lat/11 long/100 height
+Helicopter#H4(9): It's foggy : Longitude +1 : new coordinates 23 lat/254 long/44 height
+Baloon#B2(2): It's snowy : Height -15 : new coordinates 8 lat/3 long/0 height
+Baloon#B2(2): I'm landing at coordinates 8 lat/3 long/0 height
+Baloon#B2(2) : UNREGISTERED TO WEATHERTOWER AT COORDINATES 8 lat/3 long/0 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/63 long/48 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/134 long/89 height
+Baloon#B3(7): It's foggy : Height -3 : new coordinates 22 lat/102 long/2 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 165 lat/11 long/100 height
+Helicopter#H4(9): It's foggy : Longitude +1 : new coordinates 23 lat/255 long/44 height
+JetPlane#J1(3): It's foggy : Latitude +1 : new coordinates 70 lat/23 long/13 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/73 long/50 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/139 long/89 height
+Baloon#B3(7): It's foggy : Height -3 : new coordinates 22 lat/102 long/0 height
+Baloon#B3(7): I'm landing at coordinates 22 lat/102 long/0 height
+Baloon#B3(7) : UNREGISTERED TO WEATHERTOWER AT COORDINATES 22 lat/102 long/0 height
+Helicopter#H4(9): It's rainy : Longitude +5 : new coordinates 23 lat/260 long/44 height
+JetPlane#J1(3): It's sunny : Latitude +10 and Height +2 : new coordinates 80 lat/23 long/15 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/83 long/52 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/140 long/89 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 166 lat/11 long/100 height
+Helicopter#H4(9): It's snowy : Height -12 : new coordinates 23 lat/260 long/32 height
+JetPlane#J1(3): It's snowy : Height -7 : new coordinates 80 lat/23 long/8 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/93 long/54 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/141 long/89 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 167 lat/11 long/100 height
+Helicopter#H4(9): It's rainy : Longitude +5 : new coordinates 23 lat/265 long/32 height
+JetPlane#J1(3): It's snowy : Height -7 : new coordinates 80 lat/23 long/1 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/98 long/54 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/142 long/89 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 172 lat/11 long/100 height
+Helicopter#H4(9): It's sunny : Longitude +10 and Height +2 : new coordinates 23 lat/275 long/34 height
+JetPlane#J1(3): It's rainy : Latitude +5 : new coordinates 85 lat/23 long/1 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/103 long/54 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/152 long/91 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 177 lat/11 long/100 height
+Helicopter#H4(9): It's rainy : Longitude +5 : new coordinates 23 lat/280 long/34 height
+JetPlane#J1(3): It's rainy : Latitude +5 : new coordinates 90 lat/23 long/1 height
+Helicopter#H2(5): It's snowy : Height -12 : new coordinates 33 lat/103 long/42 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/153 long/91 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 187 lat/11 long/100 height
+Helicopter#H4(9): It's snowy : Height -12 : new coordinates 23 lat/280 long/22 height
+JetPlane#J1(3): It's sunny : Latitude +10 and Height +2 : new coordinates 100 lat/23 long/3 height
+Helicopter#H2(5): It's foggy : Longitude +1 : new coordinates 33 lat/104 long/42 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/163 long/93 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 192 lat/11 long/100 height
+Helicopter#H4(9): It's rainy : Longitude +5 : new coordinates 23 lat/285 long/22 height
+JetPlane#J1(3): It's snowy : Height -7 : new coordinates 100 lat/23 long/0 height
+JetPlane#J1(3): I'm landing at coordinates 100 lat/23 long/0 height
+JetPlane#J1(3) : UNREGISTERED TO WEATHERTOWER AT COORDINATES 100 lat/23 long/0 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/163 long/81 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 197 lat/11 long/100 height
+Helicopter#H4(9): It's rainy : Longitude +5 : new coordinates 23 lat/290 long/22 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/109 long/42 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/164 long/81 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 207 lat/11 long/100 height
+Helicopter#H4(9): It's sunny : Longitude +10 and Height +2 : new coordinates 23 lat/300 long/24 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/119 long/44 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/169 long/81 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 212 lat/11 long/100 height
+Helicopter#H4(9): It's snowy : Height -12 : new coordinates 23 lat/300 long/12 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/124 long/44 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/179 long/83 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 212 lat/11 long/93 height
+Helicopter#H4(9): It's snowy : Height -12 : new coordinates 23 lat/300 long/0 height
+Helicopter#H4(9): I'm landing at coordinates 23 lat/300 long/0 height
+Helicopter#H4(9) : UNREGISTERED TO WEATHERTOWER AT COORDINATES 23 lat/300 long/0 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/134 long/46 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/179 long/71 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 217 lat/11 long/93 height
+Helicopter#H2(5): It's snowy : Height -12 : new coordinates 33 lat/134 long/34 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/179 long/59 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 218 lat/11 long/93 height
+Helicopter#H2(5): It's foggy : Longitude +1 : new coordinates 33 lat/135 long/34 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/180 long/59 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 223 lat/11 long/93 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/145 long/36 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/181 long/59 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 228 lat/11 long/93 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/155 long/38 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/181 long/47 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 238 lat/11 long/95 height
+Helicopter#H2(5): It's foggy : Longitude +1 : new coordinates 33 lat/156 long/38 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/182 long/47 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 239 lat/11 long/95 height
+Helicopter#H2(5): It's foggy : Longitude +1 : new coordinates 33 lat/157 long/38 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/187 long/47 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 249 lat/11 long/97 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/167 long/40 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/192 long/47 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 254 lat/11 long/97 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/172 long/40 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/202 long/49 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 264 lat/11 long/99 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/182 long/42 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/212 long/51 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 274 lat/11 long/100 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/187 long/42 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/213 long/51 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 275 lat/11 long/100 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/197 long/44 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/213 long/39 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 285 lat/11 long/100 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/202 long/44 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/223 long/41 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 290 lat/11 long/100 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/207 long/44 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/228 long/41 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 300 lat/11 long/100 height
+Helicopter#H2(5): It's foggy : Longitude +1 : new coordinates 33 lat/208 long/44 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/238 long/43 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 301 lat/11 long/100 height
+Helicopter#H2(5): It's foggy : Longitude +1 : new coordinates 33 lat/209 long/44 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/248 long/45 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 302 lat/11 long/100 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/219 long/46 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/253 long/45 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 312 lat/11 long/100 height
+Helicopter#H2(5): It's foggy : Longitude +1 : new coordinates 33 lat/220 long/46 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/263 long/47 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 317 lat/11 long/100 height
+Helicopter#H2(5): It's foggy : Longitude +1 : new coordinates 33 lat/221 long/46 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/268 long/47 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 318 lat/11 long/100 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/231 long/48 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/278 long/49 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 318 lat/11 long/93 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/241 long/50 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/283 long/49 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 323 lat/11 long/93 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/251 long/52 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/288 long/49 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 333 lat/11 long/95 height
+Helicopter#H2(5): It's foggy : Longitude +1 : new coordinates 33 lat/252 long/52 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/289 long/49 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 338 lat/11 long/95 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/262 long/54 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/299 long/51 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 348 lat/11 long/97 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/267 long/54 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/309 long/53 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 353 lat/11 long/97 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/272 long/54 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/319 long/55 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 354 lat/11 long/97 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/282 long/56 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/319 long/43 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 355 lat/11 long/97 height
+Helicopter#H2(5): It's snowy : Height -12 : new coordinates 33 lat/282 long/44 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/319 long/31 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 360 lat/11 long/97 height
+Helicopter#H2(5): It's snowy : Height -12 : new coordinates 33 lat/282 long/32 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/319 long/19 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 365 lat/11 long/97 height
+Helicopter#H2(5): It's snowy : Height -12 : new coordinates 33 lat/282 long/20 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/319 long/7 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 370 lat/11 long/97 height
+Helicopter#H2(5): It's snowy : Height -12 : new coordinates 33 lat/282 long/8 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/324 long/7 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 371 lat/11 long/97 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/287 long/8 height
+Helicopter#H3(6): It's foggy : Longitude +1 : new coordinates 68 lat/325 long/7 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 376 lat/11 long/97 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/292 long/8 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/330 long/7 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 386 lat/11 long/99 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/297 long/8 height
+Helicopter#H3(6): It's sunny : Longitude +10 and Height +2 : new coordinates 68 lat/340 long/9 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 396 lat/11 long/100 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/307 long/10 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/345 long/9 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 401 lat/11 long/100 height
+Helicopter#H2(5): It's rainy : Longitude +5 : new coordinates 33 lat/312 long/10 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/350 long/9 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 402 lat/11 long/100 height
+Helicopter#H2(5): It's sunny : Longitude +10 and Height +2 : new coordinates 33 lat/322 long/12 height
+Helicopter#H3(6): It's rainy : Longitude +5 : new coordinates 68 lat/355 long/9 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 407 lat/11 long/100 height
+Helicopter#H2(5): It's snowy : Height -12 : new coordinates 33 lat/322 long/0 height
+Helicopter#H2(5): I'm landing at coordinates 33 lat/322 long/0 height
+Helicopter#H2(5) : UNREGISTERED TO WEATHERTOWER AT COORDINATES 33 lat/322 long/0 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 412 lat/11 long/100 height
+Helicopter#H3(6): It's snowy : Height -12 : new coordinates 68 lat/355 long/0 height
+Helicopter#H3(6): I'm landing at coordinates 68 lat/355 long/0 height
+Helicopter#H3(6) : UNREGISTERED TO WEATHERTOWER AT COORDINATES 68 lat/355 long/0 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 412 lat/11 long/93 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 417 lat/11 long/93 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 427 lat/11 long/95 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 432 lat/11 long/95 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 432 lat/11 long/88 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 432 lat/11 long/81 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 437 lat/11 long/81 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 442 lat/11 long/81 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 443 lat/11 long/81 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 443 lat/11 long/74 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 448 lat/11 long/74 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 448 lat/11 long/67 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 449 lat/11 long/67 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 450 lat/11 long/67 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 460 lat/11 long/69 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 460 lat/11 long/62 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 460 lat/11 long/55 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 461 lat/11 long/55 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 466 lat/11 long/55 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 476 lat/11 long/57 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 481 lat/11 long/57 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 482 lat/11 long/57 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 482 lat/11 long/50 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 487 lat/11 long/50 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 492 lat/11 long/50 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 493 lat/11 long/50 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 498 lat/11 long/50 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 499 lat/11 long/50 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 509 lat/11 long/52 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 510 lat/11 long/52 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 515 lat/11 long/52 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 525 lat/11 long/54 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 525 lat/11 long/47 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 526 lat/11 long/47 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 536 lat/11 long/49 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 536 lat/11 long/42 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 541 lat/11 long/42 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 542 lat/11 long/42 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 552 lat/11 long/44 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 552 lat/11 long/37 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 557 lat/11 long/37 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 567 lat/11 long/39 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 572 lat/11 long/39 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 573 lat/11 long/39 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 574 lat/11 long/39 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 584 lat/11 long/41 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 589 lat/11 long/41 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 594 lat/11 long/41 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 599 lat/11 long/41 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 604 lat/11 long/41 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 604 lat/11 long/34 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 604 lat/11 long/27 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 604 lat/11 long/20 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 609 lat/11 long/20 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 614 lat/11 long/20 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 619 lat/11 long/20 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 629 lat/11 long/22 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 630 lat/11 long/22 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 640 lat/11 long/24 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 640 lat/11 long/17 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 640 lat/11 long/10 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 645 lat/11 long/10 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 650 lat/11 long/10 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 660 lat/11 long/12 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 660 lat/11 long/5 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 665 lat/11 long/5 height
+JetPlane#J2(8): It's foggy : Latitude +1 : new coordinates 666 lat/11 long/5 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 671 lat/11 long/5 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 676 lat/11 long/5 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 681 lat/11 long/5 height
+JetPlane#J2(8): It's rainy : Latitude +5 : new coordinates 686 lat/11 long/5 height
+JetPlane#J2(8): It's sunny : Latitude +10 and Height +2 : new coordinates 696 lat/11 long/7 height
+JetPlane#J2(8): It's snowy : Height -7 : new coordinates 696 lat/11 long/0 height
+JetPlane#J2(8): I'm landing at coordinates 696 lat/11 long/0 height
+JetPlane#J2(8) : UNREGISTERED TO WEATHERTOWER AT COORDINATES 696 lat/11 long/0 height
